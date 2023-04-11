@@ -7,4 +7,4 @@ Simple calculator made using HTML, CSS and vanilla JavaScript
 To be used as a normal calculator for simple math.
 
 ## Calculator
-![Calculator page](calculator.png)
+![Calculator page](https://github.com/Loudmar/Calculator/blob/main/calculator.jpg)
