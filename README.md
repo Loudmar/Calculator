@@ -1,6 +1,7 @@
 # Calculator 
 
-Simple calculator made using HTML, CSS and vanilla JavaScript 
+Simple calculator made using HTML, CSS and vanilla JavaScript that I developed during my full-stack developer course.
+This was done last year but submitting to Github now.
 
 ## Usage
 
